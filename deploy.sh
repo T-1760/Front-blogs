@@ -1,3 +1,4 @@
+# 参考链接 https://blog.csdn.net/xiaowuwjw/article/details/124533574
 #!/usr/bin/env sh
 
 # 确保脚本抛出遇到的错误
