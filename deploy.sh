@@ -15,10 +15,10 @@ cd .vuepress/public
 
 git init
 git add -A
-git commit -m 'commit 提交'
+git commit -m 'deploy 提交'
 
 # 如果发布到 https://<USERNAME>.github.io
-git push -f git@github.com:T-1760/T-1760.github.io.git master
+git push -f git@github.com:T-1760/front-blog.git main:site
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
