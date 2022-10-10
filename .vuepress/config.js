@@ -5,8 +5,8 @@ const friendLink = require("./friendLink.js")
 module.exports = {
   "title": "vue-press-blogs",
   "description": "What a impressive, this is my front blogs!",
-  "base": "/",
-  "dest": "./public",
+  "base": "/public/",
+  "dest": "./public/",
   "head": [
     [ "link", { "rel": "icon", "href": "/favicon.ico" }],
     [ "meta", {  "name": "viewport",  "content": "width=device-width,initial-scale=1,user-scalable=no"}]
